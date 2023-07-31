@@ -1,4 +1,4 @@
-# Efficient Frontier and Portfolio Types
+# Efficient Frontier
 
 The **Efficient Frontier** is a fundamental concept in portfolio optimization that represents the set of optimal portfolios that offer the highest expected return for a given level of risk or the lowest risk for a given level of return. The efficient frontier is determined by plotting the risk (usually measured as standard deviation) against the expected return for a range of portfolios with different asset allocations.
 
